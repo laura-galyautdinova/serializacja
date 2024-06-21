@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\serializacja\Zadania\bin\Debug\net8.0\Zadania.exe
+C:\Users\User\Desktop\serializacja\Zadania\bin\Debug\net8.0\Zadania.deps.json
+C:\Users\User\Desktop\serializacja\Zadania\bin\Debug\net8.0\Zadania.runtimeconfig.json
+C:\Users\User\Desktop\serializacja\Zadania\bin\Debug\net8.0\Zadania.dll
+C:\Users\User\Desktop\serializacja\Zadania\bin\Debug\net8.0\Zadania.pdb
+C:\Users\User\Desktop\serializacja\Zadania\obj\Debug\net8.0\Zadania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\serializacja\Zadania\obj\Debug\net8.0\Zadania.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\serializacja\Zadania\obj\Debug\net8.0\Zadania.AssemblyInfo.cs
+C:\Users\User\Desktop\serializacja\Zadania\obj\Debug\net8.0\Zadania.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\serializacja\Zadania\obj\Debug\net8.0\Zadania.dll
+C:\Users\User\Desktop\serializacja\Zadania\obj\Debug\net8.0\refint\Zadania.dll
+C:\Users\User\Desktop\serializacja\Zadania\obj\Debug\net8.0\Zadania.pdb
+C:\Users\User\Desktop\serializacja\Zadania\obj\Debug\net8.0\Zadania.genruntimeconfig.cache
+C:\Users\User\Desktop\serializacja\Zadania\obj\Debug\net8.0\ref\Zadania.dll
